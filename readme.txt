@@ -1,6 +1,3 @@
-efdadsadweedfs
 Git is a distributed version control system.
-Git is free for every body.
-test 
-hasjkdsak amsxaxsadwqdqwdqw
-
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
